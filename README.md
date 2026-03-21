@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oindrila Singha  
 
-🎓 CSE @ IIT Kharagpur  
+🎓 MnC @ IIT Kharagpur  
 💻 Full Stack Developer | Backend Systems | Data-driven Applications  
 
 🔹 Building scalable dashboards & analytics systems  
