@@ -41,7 +41,7 @@
 ---
 
 ## 📈 GitHub Activity
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=oindrilaSinghaGithub&theme=dark&hide_border=true)
 
 ---
 
